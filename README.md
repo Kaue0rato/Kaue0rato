@@ -6,6 +6,10 @@ Atualmente focado em desenvolvimento web, microsserviços e aplicações moderna
 
 ---
 
+https://play.pokemonshowdown.com/sprites/ani-shiny/rayquaza.gif
+
+---
+
 ## 🧠 Sobre mim
 
 * 🎓 Estudante de tecnologia
@@ -59,6 +63,10 @@ Projeto utilizando IA generativa para criação automatizada de conteúdo multim
 ## 🎯 Objetivo
 
 Construir soluções modernas utilizando tecnologia para resolver problemas reais e ganhar experiência profissional na área de desenvolvimento.
+
+---
+
+github-readme-stats
 
 ---
 
