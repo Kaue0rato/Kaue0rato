@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👨‍💻 Kauê Nunes
 
-<!--
-**Kaue0rato/Kaue0rato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Back-end apaixonado por tecnologia, automação e inteligência artificial.
 
-Here are some ideas to get you started:
+Atualmente focado em desenvolvimento web, microsserviços e aplicações modernas utilizando Python e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+* 🎓 Estudante de tecnologia
+* 💻 Desenvolvedor Back-end
+* ⚙️ Experiência com microsserviços
+* 🤖 Interesse em Inteligência Artificial
+* 📍 São Paulo, Brasil
+
+---
+
+## 💻 Tecnologias
+
+### Back-end
+
+* Python
+* Flask
+* Node.js
+* C++
+
+### Front-end
+
+* React
+* TypeScript
+* HTML
+* CSS
+* Vite
+* Bootstrap
+
+### Ferramentas
+
+* Git
+* Docker
+* VSCode
+
+---
+
+## 📚 Projetos
+
+🔹 **Aplicação de Receitas com IA**
+Aplicativo web que sugere receitas utilizando inteligência artificial.
+Stack: Django, JavaScript, HTML, CSS.
+
+🔹 **Microsserviço para Portfólio**
+Arquitetura de microsserviços para demonstração profissional.
+
+🔹 **Sistema de Conteúdo com IA**
+Projeto utilizando IA generativa para criação automatizada de conteúdo multimídia.
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções modernas utilizando tecnologia para resolver problemas reais e ganhar experiência profissional na área de desenvolvimento.
+
+---
+
+## 📫 Contato
+
+📧 [kroquenunes@gmail.com](mailto:kroquenunes@gmail.com)
+📞 [11939459368](mailto:11939459368)
+
+---
+
+ *obsessed with being unstoppable🎴
