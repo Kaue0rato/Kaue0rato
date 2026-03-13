@@ -6,7 +6,9 @@ Atualmente focado em desenvolvimento web, microsserviços e aplicações moderna
 
 ---
 
-https://play.pokemonshowdown.com/sprites/ani-shiny/rayquaza.gif
+https://pokeapi.co/api/v2/pokemon/rayquaza
+
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/384.png
 
 ---
 
