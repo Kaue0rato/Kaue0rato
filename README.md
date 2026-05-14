@@ -71,6 +71,4 @@ github-readme-stats
 📧 [kroquenunes@gmail.com](mailto:kroquenunes@gmail.com)
 📞 [11939459368](mailto:11939459368)
 
----
-
- *obsessed with being unstoppable🎴
+--- 🎴
