@@ -70,6 +70,6 @@ github-readme-stats
 
 📧 [kroquenunes@gmail.com](mailto:kroquenunes@gmail.com)
 📞 [11939459368](mailto:11939459368)
-📷 .[https://www.instagram.com/ratzz_kaue/](mailto:https://www.instagram.com/ratzz_kaue/)
+📷 [https://www.instagram.com/ratzz_kaue/](mailto:https://www.instagram.com/ratzz_kaue/)
 
 --- 🎴
