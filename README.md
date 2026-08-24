@@ -1,4 +1,4 @@
-# 👨‍💻 Kauê Nunes
+# 👨‍💻 Kauê Nunes Roque
 
 🚀 Desenvolvedor Back-end apaixonado por tecnologia, automação e inteligência artificial.
 
