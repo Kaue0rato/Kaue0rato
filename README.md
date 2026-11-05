@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade de Gua
 Gosto de transformar problemas em soluções práticas, explorar automações e integrar recursos de inteligência artificial às aplicações. Tenho buscado evoluir com projetos reais, código organizado e atenção à experiência de quem utiliza o produto.
 
 <p align="center">
-  <img src="assets/trafalgar-law.jpg" width="230" alt="Ilustração em preto e branco de Trafalgar Law, personagem de One Piece" />
+  <img src="assets/trafalgar-law.webp" width="230" alt="Ilustração em preto e branco de Trafalgar Law, personagem de One Piece" />
 </p>
 
 ## 🧰 Tecnologias e ferramentas
