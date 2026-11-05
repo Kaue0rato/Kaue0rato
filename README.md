@@ -1,8 +1,12 @@
 <div align="center">
 
-# Kauê Nunes Roque
+<img src="assets/law-banner.webp" alt="Trafalgar Law — One Piece" width="100%" />
 
-### Desenvolvedor Back-end | Python · Django · Node.js
+# KAUÊ NUNES ROQUE
+
+### Desenvolvedor Full Stack Júnior
+
+**Python · Django · Node.js · TypeScript · Angular · React**
 
 Construindo aplicações, automações e experiências digitais com código bem pensado.
 
@@ -27,13 +31,11 @@ Construindo aplicações, automações e experiências digitais com código bem 
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade de Guarulhos (UNG)** e desenvolvedor com foco em **Back-end**. Meu principal ecossistema é **Python**, especialmente no desenvolvimento web com Django. Também trabalho com Node.js e construo interfaces utilizando JavaScript, TypeScript, React e Angular.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade de Guarulhos (UNG)** e desenvolvedor com foco em criar aplicações web de ponta a ponta.
 
-Gosto de transformar problemas em soluções práticas, explorar automações e integrar recursos de inteligência artificial às aplicações. Tenho buscado evoluir com projetos reais, código organizado e atenção à experiência de quem utiliza o produto.
+Tenho experiência prática com **Python e Django no Back-end**, além de **JavaScript, TypeScript, React e Angular no Front-end**. Também exploro Node.js, APIs, microsserviços e integração de inteligência artificial em aplicações.
 
-<p align="center">
-  <img src="assets/trafalgar-law.webp" width="230" alt="Ilustração em preto e branco de Trafalgar Law, personagem de One Piece" />
-</p>
+Gosto de entender o problema antes de programar, construir soluções funcionais e evoluir constantemente minhas habilidades técnicas. Busco uma oportunidade como **Desenvolvedor Full Stack Júnior**, contribuindo com o que já sei, aprendendo com o time e assumindo responsabilidades com dedicação.
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -72,25 +74,13 @@ Protótipo em Django que explora geração automática de resumos e classificaç
 
 `Python` `Django` `Transformers` `NLP`
 
-## 📊 GitHub em números
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaue0rato&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Kauê" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue0rato&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaue0rato&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</div>
-
 ## 📬 Vamos conversar?
 
-Estou aberto a oportunidades na área de desenvolvimento de software, especialmente em **Back-end**.
+Estou aberto a oportunidades como **Desenvolvedor Full Stack Júnior**. Tenho disposição para contribuir em diferentes etapas do desenvolvimento, aprender novas tecnologias e transformar desafios em entregas concretas.
 
-<p>
-  <a href="mailto:kroquenunes@gmail.com">E-mail</a> ·
-  <a href="https://br.linkedin.com/in/kau%C3%AA-nunes-roque-b5146b349">LinkedIn</a> ·
-  <a href="https://www.instagram.com/ratzz_kaue/">Instagram</a>
+<p align="center">
+  <a href="mailto:kroquenunes@gmail.com"><img src="https://img.shields.io/badge/Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://br.linkedin.com/in/kau%C3%AA-nunes-roque-b5146b349"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <div align="center">
