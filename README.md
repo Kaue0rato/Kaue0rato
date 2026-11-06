@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/law-banner.webp" alt="Trafalgar Law — One Piece" width="100%" />
+<img src="assets/law-banner.jpg" alt="Trafalgar Law — One Piece" width="100%" />
 
 # KAUÊ NUNES ROQUE
 
@@ -71,12 +71,12 @@ Gosto de entender o problema antes de programar, construir soluções funcionais
     <td><strong>02 · TypeScript</strong><br /><sub>Angular, React, Next.js e aplicações web tipadas</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="38" alt="JavaScript" /></td>
-    <td><strong>03 · JavaScript</strong><br /><sub>Interfaces, interatividade e integração entre aplicações</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="38" alt="Node.js" /></td>
+    <td><strong>03 · Node.js</strong><br /><sub>Desenvolvimento Back-end com JavaScript e APIs</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="38" alt="HTML5" /></td>
-    <td><strong>04 · HTML5</strong><br /><sub>Estruturação semântica de páginas e aplicações web</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="38" alt="JavaScript" /></td>
+    <td><strong>04 · JavaScript</strong><br /><sub>Interfaces, interatividade e integração entre aplicações</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="38" alt="CSS3" /></td>
@@ -88,7 +88,6 @@ Gosto de entender o problema antes de programar, construir soluções funcionais
   </tr>
 </table>
 
-<sub>Ordem representativa das tecnologias que mais aparecem no meu aprendizado e nos projetos — não é uma medição percentual automática do GitHub.</sub>
 
 </div>
 
