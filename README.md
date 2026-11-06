@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="law-banner.jpg" alt="Trafalgar Law — One Piece" width="100%" />
+<img src="./assets/law-banner.jpg" alt="Trafalgar Law — One Piece" width="100%" />
 
 # KAUÊ NUNES ROQUE
 
