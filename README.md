@@ -57,6 +57,41 @@ Gosto de entender o problema antes de programar, construir soluções funcionais
   <img src="https://skillicons.dev/icons?i=cpp,git,github,docker,linux,vscode&theme=dark" alt="C++, Git, GitHub, Docker, Linux e Visual Studio Code" />
 </p>
 
+## 📊 Linguagens que mais utilizo
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="64"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="38" alt="Python" /></td>
+    <td><strong>01 · Python</strong><br /><sub>Minha principal linguagem · Back-end, Django, automações e IA</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="38" alt="TypeScript" /></td>
+    <td><strong>02 · TypeScript</strong><br /><sub>Angular, React, Next.js e aplicações web tipadas</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="38" alt="JavaScript" /></td>
+    <td><strong>03 · JavaScript</strong><br /><sub>Interfaces, interatividade e integração entre aplicações</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="38" alt="HTML5" /></td>
+    <td><strong>04 · HTML5</strong><br /><sub>Estruturação semântica de páginas e aplicações web</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="38" alt="CSS3" /></td>
+    <td><strong>05 · CSS3 / SCSS</strong><br /><sub>Estilização de interfaces, layouts responsivos e componentes visuais</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="38" alt="C++" /></td>
+    <td><strong>06 · C++</strong><br /><sub>Fundamentos de programação e lógica</sub></td>
+  </tr>
+</table>
+
+<sub>Ordem representativa das tecnologias que mais aparecem no meu aprendizado e nos projetos — não é uma medição percentual automática do GitHub.</sub>
+
+</div>
+
 ## 🚀 Projetos em destaque
 
 ### [Empório da Música — Assistente de Atendimento com IA](https://github.com/Kaue0rato/emporio-da-musica-ai-assistant)
